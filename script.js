@@ -5,7 +5,7 @@ function firstChar(text) {
 	if (text[i] == ' ') {
 	return ' ';
 	}
-	else{
+		else{
 	return text[i];
 	}
 	}
@@ -20,5 +20,5 @@ function firstChar(text) {
 
 // Do not change the code below
 
-//const text = prompt("Enter text:");
+const text = prompt("Enter text:");
 alert(firstChar(text));
