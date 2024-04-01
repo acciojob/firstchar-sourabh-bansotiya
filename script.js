@@ -5,9 +5,9 @@ function firstChar(text) {
 	if (text[i] == ' ') {
 	return ' ';
 	}
-		else{
+		
 	return text[i];
-	}
+	
 	}
 	//for (let i = 0; i < text.length; i++) {
       //  if (text[i] !== ' ') {
